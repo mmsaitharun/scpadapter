@@ -1,0 +1,15 @@
+.metadata/*
+.recommenders/*
+AdapterTest/*
+SCPAdapterTest/*
+SCPAdapter/target/classes/META-INF/*
+SCPAdapter/target/maven-archiver/*
+Parent/*
+RemoteSystemsTempFiles/*
+*/.settings/*
+*.class
+*.lst
+/META-INF/*
+*.project
+*.classpath
+.backup/*
